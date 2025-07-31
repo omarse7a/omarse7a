@@ -41,17 +41,12 @@ I'm especially into software engineering, clean code, and solving real-world pro
 ![Linux](https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈 GitHub Activity & Stats 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarse7a&theme=tokyo-night&area=true" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarse7a&theme=tokyo-night&area=true" style="width:100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarse7a&layout=compact&theme=tokyonight" style="width: 40%; height:200px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omarse7a&show_icons=true&theme=tokyonight" style="width:40% height:200px"/>
-</p>
 
 ## 📫 Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarsameh7a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsameh7a@gmail.com)
 
