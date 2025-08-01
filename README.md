@@ -1,4 +1,7 @@
-## Hi, I'm Omar
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=800&color=00FF00&width=450&lines=Omar+Sameh;Software+Engineer)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarsameh7a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsameh7a@gmail.com)
 
 I'm a senior computer science student with a passion for creating meaningful software. I've worked on a bunch of personal and academic projects, from web apps to desktop systems, using a variety of tools and frameworks.
 
@@ -44,9 +47,3 @@ I'm especially into software engineering, clean code, and solving real-world pro
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarse7a&theme=tokyo-night&area=true" />
 </p>
-
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarsameh7a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsameh7a@gmail.com)
-
