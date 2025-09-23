@@ -40,8 +40,3 @@ I'm especially into software engineering, clean code, and solving real-world pro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📈 GitHub Activity & Stats 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarse7a&theme=tokyo-night&area=true" />
-</p>
